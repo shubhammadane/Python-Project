@@ -7,5 +7,5 @@ while num > 0:
     num = num // 10 
 if temp == rev:
     print(f"{temp} is a Palindrome number")
-else:
+else:       
     print(f"{temp} is not a Palindrome number")
